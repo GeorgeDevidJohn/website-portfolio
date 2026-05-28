@@ -117,9 +117,13 @@ export const EXPERIENCE = [
     date: 'Mar 2021 – Feb 2022',
     icon: 'info',
     bullets: [
-      'Developed and supported enterprise applications using Java, Angular, ASP.NET, and MySQL in cross-functional Agile teams.',
-      'Troubleshot production issues, performed debugging, wrote technical documentation, and supported Azure VM-hosted deployments.',
-      'Participated in code reviews, sprint planning, and cross-functional team ceremonies following Agile methodology.',
+      'Developed enterprise web applications using Angular 13, ASP.NET, MySQL, C#.',
+' Designed and optimized RESTful APIs to improve data handling efficiency.',
+'Implemented data migration and reporting tools using SSIS and T-SQL scripts.',
+'Analyzed user requirements and maintained comprehensive API documentation.',
+' Led technical mentoring and oversight, including team collaboration, exhibits team skills, unit testing, anddevelopment of proof-of-concepts (POC) for client-requested features..',
+'Participated in Agile software development, collaborating in sprint planning and retrospectives.',
+    
     ],
     tags: ['Java', 'Angular', 'ASP.NET', 'Azure VMs', 'MySQL'],
   },
